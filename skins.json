@@ -242,6 +242,15 @@
         "Tooltip": "",
         "Rarity": 0
     },
+	{
+        "PrefabName": "[PaintballShotgun]",
+        "ModificationGuid": "63b98e4f-9a23-4abc-93a8-7decf75b811d",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Paintball Shotgun Skin (Video Partner)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
     {
         "PrefabName": "[Basketball]",
         "ModificationGuid": "5dcf8a2e-6fa6-4007-ac1e-73dd53c4c247",
@@ -1553,6 +1562,15 @@
         "Favorited": false,
         "PlatformMask": -1,
         "FriendlyName": "PaintballRifleScoped_Skin_Adored",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+	{
+        "PrefabName": "[PaintballRifleScoped]",
+        "ModificationGuid": "63b98e4f-9a23-4abc-93a8-7decf75b811d",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Paintball Sniper Skin (Video Partner)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -2924,12 +2942,21 @@
         "Tooltip": "",
         "Rarity": 0
     },
-    {
+	{
         "PrefabName": "[Vehicle_RallyBuggy]",
         "ModificationGuid": "e4f55c48-da96-4fb1-a04a-197f1879eca7",
         "Favorited": false,
         "PlatformMask": -1,
         "FriendlyName": "Buggy Skin (Galaxy)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+	{
+        "PrefabName": "[Vehicle_RallyBuggy]",
+        "ModificationGuid": "63b98e4f-9a23-4abc-93a8-7decf75b811d",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Buggy Skin (Video Partner)",
         "Tooltip": "",
         "Rarity": 0
     },
