@@ -91,10 +91,10 @@
     },
 	{
         "PrefabName": "[PaintballGun]",
-        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "ModificationGuid": "5842e24a-c62f-472b-b264-19af1a247b51",
         "Favorited": false,
         "PlatformMask": -1,
-        "FriendlyName": "Paintball Pistol Skin (Premium)",
+        "FriendlyName": "Paintball Pistol Skin (RTB)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -262,10 +262,10 @@
     },
 	{
         "PrefabName": "[PaintballShotgun]",
-        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "ModificationGuid": "5842e24a-c62f-472b-b264-19af1a247b51",
         "Favorited": false,
         "PlatformMask": -1,
-        "FriendlyName": "Paintball Shotgun Skin (Premium)",
+        "FriendlyName": "Paintball Shotgun Skin (RTB)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -1072,10 +1072,10 @@
     },
 	{
         "PrefabName": "[Longbow]",
-        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "ModificationGuid": "5842e24a-c62f-472b-b264-19af1a247b51",
         "Favorited": false,
         "PlatformMask": -1,
-        "FriendlyName": "Bow Skin (Premium)",
+        "FriendlyName": "Bow Skin (RTB)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -2998,10 +2998,10 @@
     },
 	{
         "PrefabName": "[Vehicle_RallyBuggy]",
-        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "ModificationGuid": "5842e24a-c62f-472b-b264-19af1a247b51",
         "Favorited": false,
         "PlatformMask": -1,
-        "FriendlyName": "Buggy Skin (Premium)",
+        "FriendlyName": "Buggy Skin (RTB)",
         "Tooltip": "",
         "Rarity": 0
     },
