@@ -89,6 +89,15 @@
         "Tooltip": "",
         "Rarity": 0
     },
+	{
+        "PrefabName": "[PaintballGun]",
+        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "Favorited": true,
+        "PlatformMask": -1,
+        "FriendlyName": "Paintball Pistol Skin (Premium)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
     {
         "PrefabName": "[PaintballGun]",
         "ModificationGuid": "33c84c50-7c2e-4a80-ad06-79c4f20f829e",
@@ -248,6 +257,15 @@
         "Favorited": false,
         "PlatformMask": -1,
         "FriendlyName": "Paintball Shotgun Skin (Video Partner)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+	{
+        "PrefabName": "[PaintballShotgun]",
+        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Paintball Shotgun Skin (Premium)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -1151,6 +1169,15 @@
         "Tooltip": "",
         "Rarity": 0
     },
+	{
+        "PrefabName": "[Longbow]",
+        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Longbow_Skin_StarRush",
+        "Tooltip": "",
+        "Rarity": 0
+    },
     {
         "PrefabName": "[MakerPen]",
         "ModificationGuid": "79090a4b-e191-4788-9210-88a7bdf6d828",
@@ -1571,6 +1598,15 @@
         "Favorited": false,
         "PlatformMask": -1,
         "FriendlyName": "Paintball Sniper Skin (Video Partner)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+	{
+        "PrefabName": "[PaintballRifleScoped]",
+        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Paintball Sniper Skin (Premium)",
         "Tooltip": "",
         "Rarity": 0
     },
@@ -2957,6 +2993,15 @@
         "Favorited": false,
         "PlatformMask": -1,
         "FriendlyName": "Buggy Skin (Video Partner)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+	{
+        "PrefabName": "[Vehicle_RallyBuggy]",
+        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Buggy Skin (Premium)",
         "Tooltip": "",
         "Rarity": 0
     },
