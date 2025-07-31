@@ -1610,15 +1610,6 @@
         "Tooltip": "",
         "Rarity": 0
     },
-	{
-        "PrefabName": "[PaintballRifleScoped]",
-        "ModificationGuid": "c167b9fe-8995-4dae-9e89-08b87ff16159",
-        "Favorited": false,
-        "PlatformMask": -1,
-        "FriendlyName": "Paintball Sniper Skin (Premium)",
-        "Tooltip": "",
-        "Rarity": 0
-    },
     {
         "PrefabName": "[Crossbow_Hunter]",
         "ModificationGuid": "d217ee4c-22f3-4f33-bf7c-9d4ee9c30e29",
