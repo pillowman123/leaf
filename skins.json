@@ -2925,6 +2925,15 @@
         "Rarity": 0
     },
     {
+        "PrefabName": "[Vehicle_RallyBuggy]",
+        "ModificationGuid": "e4f55c48-da96-4fb1-a04a-197f1879eca7",
+        "Favorited": false,
+        "PlatformMask": -1,
+        "FriendlyName": "Buggy Skin (Galaxy)",
+        "Tooltip": "",
+        "Rarity": 0
+    },
+    {
         "PrefabName": "[RecCenter_Cafe_Mug]",
         "ModificationGuid": "f1bf9de6-bd6e-4036-938f-29bd79c5aacc",
         "Favorited": false,
